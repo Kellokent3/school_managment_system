@@ -1,5 +1,5 @@
 # 🍊 school-management-system 
-PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](https://sms.oranbyte.com)
+PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](https://sms.oranbyte.com) and you can get more project for free on (https://www.github.com/Kellokent3)
 
 
 
@@ -126,10 +126,10 @@ The **Credentials** for default logins are
 
 | Panel   |  Email             | Password |
 | ----:   |  :---------------- | :------: |
-| Admin   | admin@gmail.com    | 123      |
-| Teacher | teacher@gmail.com  | 123      |
-| Student | student@gmail.com  | 123      |
-| Owner   | owner@gmail.com    | 123      |
+| Admin   | admin@gmail.com    | 12345      |
+| Teacher | teacher@gmail.com  | 12345      |
+| Student | student@gmail.com  | 12345     |
+| Owner   | owner@gmail.com    | 12345      |
 
 - Note : **Password for New Teachers and Students:**  
    The default password for newly created teacher and student accounts is set to their **date of birth**.  
