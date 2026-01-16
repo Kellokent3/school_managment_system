@@ -1,5 +1,5 @@
 # 🍊 school-management-system 
-PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other.you can get more project for free on (https://www.github.com/Kellokent3) my email is (scottyedmond1@gmail.com) on phone (+250 794 185 778)
+PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other.you can get more project for free on (https://www.github.com/Kellokent3) my email is (scottyedmond1@gmail.com) on phone (+250 794 185 779)
  
 
 
